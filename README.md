@@ -12,7 +12,7 @@
 
   - 🌎 I have fluency in English, and know a bit of Italian and German.
 
-  - 🍄 I love traveling, enjoy reading a good book, watching movies and playing games (stardew valley 🫣)! 
+  - 🍄 I love traveling, reading a good book, watching movies and playing games (stardew valley 🫣)! 
 </p>
 
 <!-- Portfolio -->

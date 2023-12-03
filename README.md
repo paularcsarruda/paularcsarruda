@@ -15,9 +15,6 @@
   - 🍄 I love traveling, reading a good book, watching movies and playing games (stardew valley 🫣)! 
 </p>
 
-<!-- Portfolio -->
-## Portfolio:
-
 ## 🔨 Skills: Tools and Frameworks
 <!-- Skills -->
 <div style="flex-basis: 48%;">

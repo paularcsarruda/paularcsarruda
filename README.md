@@ -4,7 +4,7 @@
 <!-- Presentation -->
 <p>
 
-  - 🌱 My name is Paula, but for most just Paulinha!
+  - 🌱 My name is Paula but for most, just Paulinha!
   
   - 🇧🇷 I'm 36 years old and live in Brazil.
   

@@ -18,6 +18,7 @@
 <!-- Portfolio -->
 ## Portfolio:
 
+## 🔨 Skills
 <!-- Skills -->
 <div style="flex-basis: 48%;">
   <h3>Tools & Frameworks</h3>

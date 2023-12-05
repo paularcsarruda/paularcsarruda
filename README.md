@@ -1,10 +1,13 @@
+![Alt Text](https://github.com/paularcsarruda/paularcsarruda/raw/master/images/gifdino.gif)
+
+
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Paula Arruda</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paularcsarruda&color=yellow" alt="Profile views" /> </p>
 
 <!-- Presentation -->
 <p>
 
-  - 🌱 My name is Paula but for most, just Paulinha!
+  - 🌱 My name is Paula but for most just Paulinha!
   
   - 🇧🇷 I'm 36 years old and live in Brazil.
   

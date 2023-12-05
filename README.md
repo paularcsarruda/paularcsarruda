@@ -26,13 +26,6 @@
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-plain-wordmark.svg" />
 </div>
-
-##
-<!-- Languages -->
-<div align="right">
-  <a href="https://github.com/paularcsarruda">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paularcsarruda&layout=compact&langs_count=7&theme=light"/>
-</div>
     
 <!-- Contact -->
 ## Contact

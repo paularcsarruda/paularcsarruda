@@ -18,7 +18,7 @@
   - 🍄 I love traveling, reading a good book, watching movies and playing games 🫣! 
 </p>
 
-## 🔨 Skills: Tools and Frameworks
+## Skills: Tools and Frameworks
 <!-- Skills -->
 <div style="flex-basis: 48%;">
   <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">

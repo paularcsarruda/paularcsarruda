@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/paularcsarruda/paularcsarruda/raw/master/images/gifdino.gif)
+![Alt Text](https://github.com/rennanprysthon/rennanprysthon/raw/master/images/gifdino.gif)
 
 
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Paula Arruda</h1>

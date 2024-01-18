@@ -15,7 +15,7 @@
 
   - 🌎 I have fluency in English, and know a bit of Italian and German.
 
-  - 🍄 I love traveling, read a good book, watch movies and play games 🫣! 
+  - 🍄 I love travelling, reading a good book, watching movies and playing games 🫣! 
 </p>
 
 ## Skills: Tools and Frameworks

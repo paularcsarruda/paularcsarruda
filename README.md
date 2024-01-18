@@ -34,6 +34,3 @@
  <div> 
   <a href="https://www.linkedin.com/in/paula-arruda-903656280/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-## 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paularcsarruda&show_icons=true&theme=tokyonight&title_color=ec3c68&text_color=e7abc3&bg_color=050505&hide_border=true&locale=en&layout=compact" alt="paularcsarruda" /><img src="https://media.giphy.com/media/YYQ6sw8jt2HRxX4uVi/giphy.gif" width="150"></p>

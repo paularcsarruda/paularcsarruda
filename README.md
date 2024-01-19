@@ -13,7 +13,7 @@
   
   - 📚 I’m a student at Senac - SP and a intern at Compass UOL.
 
-  - 🌎 I have fluency in English, and know a bit of Italian and German.
+  - 🌎 I have fluency in English, and I speak a bit of Italian and German.
 
   - 🍄 I love travelling, reading a good book, watching movies and playing games 🫣! 
 </p>

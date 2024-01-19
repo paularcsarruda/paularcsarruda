@@ -34,3 +34,10 @@
  <div> 
   <a href="https://www.linkedin.com/in/paula-arruda-903656280/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<!-- Languages -->
+<div style=""><br>
+  <a href="https://github.com/BpCampos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paularcsarruda&show_icons=true&theme=light&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paularcsarruda&layout=compact&langs_count=10&theme=light&hide=jupyter%20notebook"/>
+</div>

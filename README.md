@@ -1,4 +1,4 @@
-![vibes](https://pbs.twimg.com/media/D-jnKUPU4AE3hVR.jpg)
+![workspace](https://github.com/paularcsarruda/paularcsarruda/assets/122739036/0a1c48bf-bb4e-40c3-ba17-e682eec3491e)
 
 
 <h1 align="left">Hi dear 👋🏼, I'm Paula Arruda</h1>

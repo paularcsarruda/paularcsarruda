@@ -1,6 +1,3 @@
-![workspace](https://github.com/paularcsarruda/paularcsarruda/assets/122739036/0a1c48bf-bb4e-40c3-ba17-e682eec3491e)
-
-
 <h1 align="left">Hi dear 👋🏼, I'm Paula Arruda</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paularcsarruda&color=yellow" alt="Profile views" /> </p>
 

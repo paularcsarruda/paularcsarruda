@@ -18,6 +18,14 @@
   - 🛠️ I’m currently learning AWS.
 </p>
 
+## 
+
+<div> 
+  
+  ![Snake animation](https://github.com/paularcsarruda/paularcsarruda/blob/output/github-contribution-grid-snake.svg)
+
+</div>  
+
 ## Skills: Tools and Frameworks
 <!-- Skills -->
 <div style="flex-basis: 48%;">

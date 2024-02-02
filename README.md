@@ -12,7 +12,9 @@
 
   - 🌎 I have fluency in English, and I speak a bit of Italian and German.
 
-  - 🍄 I love travelling, reading a good book, watching movies and playing games 🫣! 
+  - 🍄 I love travelling, reading a good book, watching movies and playing games 🫣!
+
+  - 🛠️ I’m currently learning AWS.
 </p>
 
 ## Skills: Tools and Frameworks

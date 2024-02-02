@@ -1,21 +1,22 @@
-![vibes](https://pbs.twimg.com/media/D-jnKUPU4AE3hVR.jpg)
-<h1 align="left">Hello World 👋🏼! I'm Paula Arruda</h1>
+![240304586-d48893bd-0757-481c-8d7e-ba3e163feae7](https://github.com/paularcsarruda/paularcsarruda/assets/122739036/866f21e7-d4c4-4142-91e7-61030d909b98)
+
+<h1 align="left">Hello World <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Yellow%20Heart.png" alt="Yellow Heart" width="40" height="40" />! I'm Paula Arruda</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paularcsarruda&color=yellow" alt="Profile views" /> </p>
 
 <!-- Presentation -->
 <p>
 
-  - 🌱 My name is Paula but for most just Paulinha!
+  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands%20Medium-Light%20Skin%20Tone.png" alt="Heart Hands Medium-Light Skin Tone" width="25" height="25" /> My name is Paula but for most just Paulinha!
   
-  - 🇧🇷 I'm 36 years old and live in Brazil.
+  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" alt="World Map" width="25" height="25" /> I'm 36 years old and live in Brazil.
   
-  - 📚 I’m a student at Senac - SP and a intern at Compass UOL.
+  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="25" height="25" /> I’m a student at Senac - SP and a intern at Compass UOL.
 
-  - 🌎 I have fluency in English, and I speak a bit of Italian and German.
+  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Four%20Leaf%20Clover.png" alt="Four Leaf Clover" width="25" height="25" /> I have fluency in English, and I speak a bit of Italian and German.
 
-  - 🍄 I love travelling, reading a good book, watching movies and playing games 🫣!
+  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane.png" alt="Airplane" width="25" height="25" /> I love travelling, reading a good book, watching movies and playing games <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/See-No-Evil%20Monkey.png" alt="See-No-Evil Monkey" width="25" height="25" />!
 
-  - 🛠️ I’m currently learning AWS.
+  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> I’m currently learning AWS.
 </p> 
 
 ## Skills: Tools and Frameworks

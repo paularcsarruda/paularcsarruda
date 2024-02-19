@@ -33,6 +33,13 @@
   <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />             
 </div>
 
+## Badges
+<!-- Badges -->
+![aws-cloud-quest-cloud-practitioner](https://github.com/paularcsarruda/paularcsarruda/assets/122739036/1f96fb38-22d5-43e0-91cf-66a86729f94f)
+![aws-partner-accreditation-technical](https://github.com/paularcsarruda/paularcsarruda/assets/122739036/58a82d89-59bf-4c7e-a9e6-ec0a648050ca)
+![aws-partner-sales-accreditation-business](https://github.com/paularcsarruda/paularcsarruda/assets/122739036/a5b87819-cc33-4ffc-a573-2e428e0618b6)
+![aws-partner-cloud-economics-accreditation](https://github.com/paularcsarruda/paularcsarruda/assets/122739036/f819bc99-dd3c-4870-8bcf-d2252260984e)
+
 ##
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=paularcsarruda&theme=default)  &nbsp;&nbsp;&nbsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=paularcsarruda&theme=default&utcOffset=8)

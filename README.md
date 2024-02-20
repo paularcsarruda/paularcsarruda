@@ -40,10 +40,6 @@
 ![aws-partner-sales-accreditation-business](https://github.com/paularcsarruda/paularcsarruda/assets/122739036/a5b87819-cc33-4ffc-a573-2e428e0618b6)
 ![aws-partner-cloud-economics-accreditation](https://github.com/paularcsarruda/paularcsarruda/assets/122739036/f819bc99-dd3c-4870-8bcf-d2252260984e)
 
-##
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=paularcsarruda&theme=default)  &nbsp;&nbsp;&nbsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=paularcsarruda&theme=default&utcOffset=8)
-
 <!-- Contact -->
 ## You can find me at:
  <div> 

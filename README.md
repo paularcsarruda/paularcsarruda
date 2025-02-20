@@ -52,5 +52,11 @@
   <a href="https://www.linkedin.com/in/paula-arruda-b22411302/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
+##   
+
+<div align="justify">
+  <a href="https://github.com/paularcsarruda">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paularcsarruda&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 

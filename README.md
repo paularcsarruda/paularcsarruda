@@ -1,12 +1,12 @@
 ![240304586-d48893bd-0757-481c-8d7e-ba3e163feae7](https://github.com/paularcsarruda/paularcsarruda/assets/122739036/866f21e7-d4c4-4142-91e7-61030d909b98)
 
-<h1 align="left">Hello World <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Yellow%20Heart.png" alt="Yellow Heart" width="40" height="40" />! I'm Paula Arruda</h1>
+<h1 align="left">Hello World <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Yellow%20Heart.png" alt="Yellow Heart" width="40" height="40" />! I'm Paula Roberta Arruda</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paularcsarruda&color=yellow" alt="Profile views" /> </p>
 
 <!-- Presentation -->
 <p>
 
-  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" /> My name is Paula but for most just Paulinha!
+  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" />" My name is Paula but for most just Paulinha!
   
   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" alt="World Map" width="25" height="25" /> I live in Brazil.
 

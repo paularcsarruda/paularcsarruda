@@ -13,6 +13,8 @@
   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Four%20Leaf%20Clover.png" alt="Four Leaf Clover" width="25" height="25" /> I'm fluent in English and speak a bit of Italian and German.
 
   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane.png" alt="Airplane" width="25" height="25" /> I love to travel, read good books, watch movies, and play video games. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/See-No-Evil%20Monkey.png" alt="See-No-Evil Monkey" width="25" height="25" />!
+  - 
+  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Done.png" alt="Hourglass Done" width="25" height="25" /> I have a degree in Systems Analysis and Development and I’m really into everything related to front-end, UI and UX design.
 
 </p> 
 
@@ -38,7 +40,6 @@
 ![aws-partner-accreditation-technical](https://github.com/paularcsarruda/paularcsarruda/assets/122739036/58a82d89-59bf-4c7e-a9e6-ec0a648050ca)
 ![aws-partner-sales-accreditation-business](https://github.com/paularcsarruda/paularcsarruda/assets/122739036/a5b87819-cc33-4ffc-a573-2e428e0618b6)
 ![aws-partner-cloud-economics-accreditation](https://github.com/paularcsarruda/paularcsarruda/assets/122739036/f819bc99-dd3c-4870-8bcf-d2252260984e)
-
 
 <!-- Contact -->
 ## You can find me at:

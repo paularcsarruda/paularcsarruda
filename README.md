@@ -1,5 +1,6 @@
 <!-- Banner -->
-<img src="https://github.com/paularcsarruda/paularcsarruda/assets/122739036/866f21e7-d4c4-4142-91e7-61030d909b98" width="100%" />
+<img src="https://github.com/user-attachments/assets/54cbaedd-3e1f-400f-bf18-2a187a7437ee" width="100%" />
+
 
 <h1 align="center">Hello World <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Yellow%20Heart.png" alt="Yellow Heart" width="35" height="35" /> I'm Paula Roberta Arruda</h1>
 

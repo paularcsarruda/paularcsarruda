@@ -8,7 +8,7 @@
 
 <div align="center">
 <br>
-<a href="[https://www.linkedin.com/in/paularobertaarruda/](https://www.linkedin.com/in/paula-roberta-arruda-b88166373/)"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username paularobertaarruda" /></a>
+<a href="[[https://www.linkedin.com/in/paularobertaarruda/](https://www.linkedin.com/in/paula-roberta-arruda-b88166373/)](https://www.linkedin.com/in/paula-roberta-arruda-b88166373/)"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username paularobertaarruda" /></a>
 </div>
 <br>
 

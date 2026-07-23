@@ -1,21 +1,23 @@
 <!-- Banner -->
-
-<img width="2172" height="724" alt="ChatGPT Image 23 de jul  de 2026, 09_27_26" src="https://github.com/user-attachments/assets/bdc77202-a109-4a8e-85ae-6ab02c6b09a4" />
-
+<img width="2172" height="724" alt="Paula Arruda banner" src="https://github.com/user-attachments/assets/bdc77202-a109-4a8e-85ae-6ab02c6b09a4" />
 
 <h3 align="center">
   Frontend Developer focused on creating responsive, accessible, and user-friendly digital experiences.
 </h3>
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/paula-roberta-arruda-b88166373/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"
-    alt="LinkedIn de Paula Roberta Arruda"
-  />
-</a>
-
+  <a href="https://www.linkedin.com/in/paula-roberta-arruda-b88166373/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"
+      alt="LinkedIn de Paula Roberta Arruda"
+    />
+  </a>
+  <a href="#">
+    <img
+      src="https://img.shields.io/badge/Portfolio-Coming_Soon-d5d5d5?style=for-the-badge&logo=googlechrome&logoColor=0A0209"
+      alt="Portfolio (coming soon)"
+    />
+  </a>
 </div>
 
 <br>
@@ -25,7 +27,6 @@
 ## About Me
 
 I'm a frontend developer from Brazil with a background in Law and Systems Analysis and Development.
-
 I enjoy combining technology, visual organization, and usability to build interfaces that are both functional and pleasant to use.
 
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Focused on frontend and mobile development
@@ -47,8 +48,6 @@ I enjoy combining technology, visual organization, and usability to build interf
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
----
-
 ## Featured Projects
 
 ### 🐾 AuDoção
@@ -58,12 +57,13 @@ A responsive platform designed to connect animal protection organizations with p
 **Main technologies:** React, JavaScript, HTML and CSS
 
 **Highlights:**
-
 * Responsive interface
 * Reusable components
 * Animal listing and adoption flows
 * Focus on usability and accessibility
+
 <br>
+
 <p align="center">
   <a href="https://github.com/paularcsarruda/Audocao">
     <img
@@ -73,8 +73,6 @@ A responsive platform designed to connect animal protection organizations with p
   </a>
 </p>
 
----
-
 ### 🌵 Tradutor Nordestinês
 
 A mobile application that translates regional expressions from Northeastern Brazil in a simple and playful way.
@@ -82,12 +80,13 @@ A mobile application that translates regional expressions from Northeastern Braz
 **Main technologies:** React Native and JavaScript
 
 **Highlights:**
-
 * Mobile interface development
 * Regional and cultural identity
 * Simple user flow
 * Custom visual design
+
 <br>
+
 <p align="center">
   <a href="https://github.com/paularcsarruda/TradutorNordestines">
     <img
@@ -109,8 +108,6 @@ A mobile application that translates regional expressions from Northeastern Braz
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
 </p>
 
----
-
 ## Development Tools
 
 <p>
@@ -119,5 +116,3 @@ A mobile application that translates regional expressions from Northeastern Braz
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
-
----

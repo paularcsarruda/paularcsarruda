@@ -51,7 +51,7 @@ I enjoy combining technology, visual organization, and usability to build interf
 
 ## Featured Projects
 
-### 🐾 AuDção
+### 🐾 AuDoção
 
 A responsive platform designed to connect animal protection organizations with people interested in adoption.
 
@@ -63,8 +63,15 @@ A responsive platform designed to connect animal protection organizations with p
 * Reusable components
 * Animal listing and adoption flows
 * Focus on usability and accessibility
-
-[View repository](https://github.com/paularcsarruda/Audocao.git)
+<br>
+<p align="center">
+  <a href="https://github.com/paularcsarruda/Audocao">
+    <img
+      src="https://img.shields.io/badge/View_Repository-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209"
+      alt="View AuDoção repository"
+    />
+  </a>
+</p>
 
 ---
 
@@ -80,8 +87,15 @@ A mobile application that translates regional expressions from Northeastern Braz
 * Regional and cultural identity
 * Simple user flow
 * Custom visual design
-
-[View repository](https://github.com/paularcsarruda/TradutorNordestines.git)
+<br>
+<p align="center">
+  <a href="https://github.com/paularcsarruda/TradutorNordestines">
+    <img
+      src="https://img.shields.io/badge/View_Repository-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209"
+      alt="View Tradutor Nordestines repository"
+    />
+  </a>
+</p>
 
 ---
 

@@ -1,65 +1,101 @@
 <!-- Banner -->
-<img src="https://github.com/user-attachments/assets/54cbaedd-3e1f-400f-bf18-2a187a7437ee" width="100%" />
 
+<h1 align="center">Hello world! I'm Paula Roberta Arruda 👋</h1>
 
-<h1 align="center">Hello World <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Yellow%20Heart.png" alt="Yellow Heart" width="35" height="35" /> I'm Paula Roberta Arruda</h1>
+<h3 align="center">
+  Frontend Developer focused on creating responsive, accessible, and user-friendly digital experiences.
+</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=paularcsarruda&color=yellow" alt="Profile views" />
-</p>
+<div align="center">
+<br>
+<a href="[https://www.linkedin.com/in/paularobertaarruda/](https://www.linkedin.com/in/paula-roberta-arruda-b88166373/)"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username paularobertaarruda" /></a>
+</div>
+<br>
 
 ---
 
 ## About Me
-<p> 
-  
-  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" /> My name is Paula.
-  
-  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" alt="World Map" width="25" height="25" /> I live in Brazil.
-  
-  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Four%20Leaf%20Clover.png" alt="Four Leaf Clover" width="25" height="25" /> I'm fluent in English and speak a bit of Italian and German.
-  
-  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane.png" alt="Airplane" width="25" height="25" /> I love to travel, read good books, watch movies, and play video games. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/See-No-Evil%20Monkey.png" alt="See-No-Evil Monkey" width="25" height="25" />!
-  
-  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Done.png" alt="Hourglass Done" width="25" height="25" /> I have a degree in Systems Analysis and Development.
-  
+
+I'm a frontend developer from Brazil with a background in Law and Systems Analysis and Development.
+
+I enjoy combining technology, visual organization, and usability to build interfaces that are both functional and pleasant to use.
+
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Focused on frontend and mobile development
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pinata.png" alt="Pinata" width="25" height="25" /> Interested in UI, UX, accessibility, and responsive design
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Axe.png" alt="Axe" width="25" height="25" /> Currently improving my JavaScript, React, and software development skills
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe Showing Americas" width="25" height="25" /> Fluent in English, with basic knowledge of Italian and German
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> I also enjoy books, movies, video games, and travelling
+
+---
+
+## Frontend Development
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Skills: Tools and Frameworks  
+## Featured Projects
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Backend
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+### 🐾 AuDção
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Frontend
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+A responsive platform designed to connect animal protection organizations with people interested in adoption.
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Tools  
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
----
+**Main technologies:** React, JavaScript, HTML and CSS
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> Badges & Certifications  
-![introduction-to-cybersecurity](https://github.com/user-attachments/assets/89395f99-b973-47f3-82e4-ff2f2e8aa259)
-![cybersecurity-essentials](https://github.com/user-attachments/assets/798829c5-e9c9-43c2-aaf2-1bd5172f04bc)
-![aws-cloud-quest-cloud-practitioner](https://github.com/paularcsarruda/paularcsarruda/assets/122739036/1f96fb38-22d5-43e0-91cf-66a86729f94f)
-![aws-partner-accreditation-technical](https://github.com/paularcsarruda/paularcsarruda/assets/122739036/58a82d89-59bf-4c7e-a9e6-ec0a648050ca)
-![aws-partner-sales-accreditation-business](https://github.com/paularcsarruda/paularcsarruda/assets/122739036/a5b87819-cc33-4ffc-a573-2e428e0618b6)
-![aws-partner-cloud-economics-accreditation](https://github.com/paularcsarruda/paularcsarruda/assets/122739036/f819bc99-dd3c-4870-8bcf-d2252260984e)
+**Highlights:**
+
+* Responsive interface
+* Reusable components
+* Animal listing and adoption flows
+* Focus on usability and accessibility
+
+[View repository](https://github.com/paularcsarruda/Audocao.git)
 
 ---
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Lowered%20Flag.png" alt="Closed Mailbox with Lowered Flag" width="25" height="25" /> You can find me at  
-<p align="left">
-  <a href="https://www.linkedin.com/in/paularobertaarruda" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+
+### 🌵 Tradutor Nordestinês
+
+A mobile application that translates regional expressions from Northeastern Brazil in a simple and playful way.
+
+**Main technologies:** React Native and JavaScript
+
+**Highlights:**
+
+* Mobile interface development
+* Regional and cultural identity
+* Simple user flow
+* Custom visual design
+
+[View repository](https://github.com/paularcsarruda/TradutorNordestines.git))
+
+---
+
+## Additional Knowledge
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
 </p>
 
+---
+
+## Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+---

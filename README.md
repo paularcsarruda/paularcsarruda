@@ -1,15 +1,23 @@
 <!-- Banner -->
 
-<h1 align="center">Hello world! I'm Paula Roberta Arruda 👋</h1>
+<img width="2172" height="724" alt="ChatGPT Image 23 de jul  de 2026, 09_27_26" src="https://github.com/user-attachments/assets/bdc77202-a109-4a8e-85ae-6ab02c6b09a4" />
+
 
 <h3 align="center">
   Frontend Developer focused on creating responsive, accessible, and user-friendly digital experiences.
 </h3>
 
 <div align="center">
-<br>
-<a href="[[https://www.linkedin.com/in/paularobertaarruda/](https://www.linkedin.com/in/paula-roberta-arruda-b88166373/)](https://www.linkedin.com/in/paula-roberta-arruda-b88166373/)"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username paularobertaarruda" /></a>
+
+<a href="https://www.linkedin.com/in/paula-roberta-arruda-b88166373/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"
+    alt="LinkedIn de Paula Roberta Arruda"
+  />
+</a>
+
 </div>
+
 <br>
 
 ---
@@ -73,7 +81,7 @@ A mobile application that translates regional expressions from Northeastern Braz
 * Simple user flow
 * Custom visual design
 
-[View repository](https://github.com/paularcsarruda/TradutorNordestines.git))
+[View repository](https://github.com/paularcsarruda/TradutorNordestines.git)
 
 ---
 

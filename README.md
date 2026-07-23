@@ -36,7 +36,12 @@ I enjoy combining technology, visual organization, and usability to build interf
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> I also enjoy books, movies, video games, and travelling
 
 ---
+## Education & Certifications
 
+* 🎓 **Data Engineering** — Next, CESAR School
+* 🎓 **Systems Analysis and Development** - Senac
+
+---
 ## Frontend Development
 
 <p>

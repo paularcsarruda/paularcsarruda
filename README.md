@@ -33,7 +33,7 @@ I enjoy combining technology, visual organization, and usability to build interf
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pinata.png" alt="Pinata" width="25" height="25" /> Interested in UI, UX, accessibility, and responsive design
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Axe.png" alt="Axe" width="25" height="25" /> Currently improving my JavaScript, React, and software development skills
 * <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe Showing Americas" width="25" height="25" /> Fluent in English, with basic knowledge of Italian and German
-* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> I also enjoy books, movies, video games, and travelling
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> I also enjoy books, movies, photography, and travelling
 
 ---
 ## Education & Certifications

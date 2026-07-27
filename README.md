@@ -1,8 +1,9 @@
 <!-- Banner -->
-<img width="2172" height="724" alt="Paula Arruda banner" src="https://github.com/user-attachments/assets/bdc77202-a109-4a8e-85ae-6ab02c6b09a4" />
+<img width="1584" height="396" alt="Banner para LinkedIn para Centro de Crises sobre Enchentes Roxo Tom Único Minimalista(1)" src="https://github.com/user-attachments/assets/c47ce3db-1412-462f-8587-9f27ee5cdc16" />
+
 
 <h3 align="center">
-  Frontend Developer focused on creating responsive, accessible, and user-friendly digital experiences.
+Technology professional focused on Data Engineering and software development with Python and Java, building efficient, reliable, and scalable solutions.
 </h3>
 
 <div align="center">
